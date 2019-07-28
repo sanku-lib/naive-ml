@@ -1,1 +1,2 @@
-# This repository provides naive implementation of Machine Learning, Deep Learning algorithms
+# naive-ml
+Provides naive implementation of Machine Learning, Deep Learning algorithms
